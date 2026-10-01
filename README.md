@@ -103,4 +103,10 @@ Possible future improvements include:
 
 This project was created as part of my journey in learning web development and building my developer portfolio.
 
-<img src:"C:\Users\DELL\Downloads\home page, Screenshot_1-10-2026_20536_127.0.0.1.jpeg">
+# VideoFlow
+
+A YouTube-style video website built using HTML and CSS.
+
+## Screenshot
+
+![VideoFlow Screenshot](images/thumbnails/watchpage_of_nature.jpg)
