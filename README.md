@@ -109,4 +109,4 @@ A YouTube-style video website built using HTML and CSS.
 
 ## Screenshot
 
-![VideoFlow Screenshot](images/thumbnails/watchpage_of_nature.jpg)
+C:\Users\DELL\Desktop\GMTsoftware project\Assignment\Assignment workplace 2\Assignment Solution week 2\youtube-clone\images\thumbnails\watchpage_of_nature.jpg
