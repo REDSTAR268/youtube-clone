@@ -103,4 +103,4 @@ Possible future improvements include:
 
 This project was created as part of my journey in learning web development and building my developer portfolio.
 
-"C:\Users\DELL\Downloads\home page,Screenshot_1-10-2026_20536_127.0.0.1.jpeg"
+<img src:"C:\Users\DELL\Downloads\home page, Screenshot_1-10-2026_20536_127.0.0.1.jpeg">
