@@ -107,6 +107,8 @@ This project was created as part of my journey in learning web development and b
 
 A YouTube-style video website built using HTML and CSS.
 
-## Screenshot
+![Home Page](images/thumbnails/Home_page.jpg)
 
-C:\Users\DELL\Desktop\GMTsoftware project\Assignment\Assignment workplace 2\Assignment Solution week 2\youtube-clone\images\thumbnails\watchpage_of_nature.jpg
+![Music Watch Page](images/thumbnails/watchpage_music.jpg)
+
+![Nature Watch Page](images/thumbnails/watchpage_nature.jpg)
